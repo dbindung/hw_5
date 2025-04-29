@@ -1,0 +1,31 @@
+1.
+override
+
+2.
+Employee Sam
+
+хтть в Person и определно метод Display как 
+Console.WriteLine($"Person {Name}");
+
+в Employee мы его переопределяем в
+Console.WriteLine($"Employee {Name}");
+
+3.
+Manager Bob
+
+потому что мы переопределили Боба в дочерний класс менеджеров
+
+4.
+Track is moving
+
+потому что мы переопределили метод Move
+
+5.
+
+для ограничения наследования от этого класса
+
+6. 
+
+Auto
+
+потому что мы просто вызываем родтельский метод
