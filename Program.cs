@@ -10,10 +10,10 @@ class Program {
         switch (args[0]) {
             case "1":
                 Task1.Run(); break;
-            // case "1":
-            //     Task1.Run(); break;
-            // case "1":
-            //     Task1.Run(); break;
+            case "2":
+                Task2.Run(); break;
+            case "3":
+                Task3.Run(); break;
             // case "1":
             //     Task1.Run(); break;
             default:
