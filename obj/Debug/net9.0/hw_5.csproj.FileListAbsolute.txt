@@ -12,3 +12,4 @@ C:\Users\User\Desktop\sillyAtempts\c_sharp\hw_5\obj\Debug\net9.0\refint\hw_5.dll
 C:\Users\User\Desktop\sillyAtempts\c_sharp\hw_5\obj\Debug\net9.0\hw_5.pdb
 C:\Users\User\Desktop\sillyAtempts\c_sharp\hw_5\obj\Debug\net9.0\hw_5.genruntimeconfig.cache
 C:\Users\User\Desktop\sillyAtempts\c_sharp\hw_5\obj\Debug\net9.0\ref\hw_5.dll
+C:\Users\User\Desktop\sillyAtempts\c_sharp\hw_5\obj\Debug\net9.0\hw_5.sourcelink.json
