@@ -37,6 +37,12 @@ class Dog : Animal
     {
         return "Dog";
     }
+
+    public void SpeakWithDetails()
+    {
+        base.Speak();
+        Console.WriteLine("Dogs are loyal friends.");
+    }
 }
 
 class Cat : Animal

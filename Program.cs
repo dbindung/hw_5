@@ -14,8 +14,8 @@ class Program {
                 Task2.Run(); break;
             case "3":
                 Task3.Run(); break;
-            // case "1":
-            //     Task1.Run(); break;
+            case "5":
+                Task5.Run(); break;
             default:
                 Console.WriteLine("Нет такой задачи."); break;
         }
